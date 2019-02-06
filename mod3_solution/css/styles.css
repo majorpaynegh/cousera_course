@@ -1,0 +1,23 @@
+.navbar-brand h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#chicken_menu{
+    /* height: 1000px; */
+    background-color: gray;
+    /* overflow: auto; */
+}
+
+/* #nav-list{
+    border: 1px solid black;
+} */
+
+#chicken_row{
+    margin: 1%;
+}
